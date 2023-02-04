@@ -1,4 +1,4 @@
-# CRUD - Spring-Boot
+# CRUD - Spring Boot
 <p>CRUD Completo com Spring Boot REST API</p>
 <p>
   1 - CRUD de usuário (campos: nome e idade)<br />
