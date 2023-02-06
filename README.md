@@ -7,5 +7,7 @@
   4 - Remover usuário<br />
   5 - Pesquisar por nome de usuário<br />
   6 - Usar PostgreSQL<br />
-  7 - Usar Spring Boot
+  7 - Usar Spring Boot<br />
+  8 - Usar JavaScript<br />
+  9 - Usar Bootstrap<br />
 </p>
